@@ -21,7 +21,7 @@ A table:
 
 | der   | die  | das |   |   |
 |-------|------|-----|---|---|
-| brot  | test | bla |   |   |
+| brssot  | test | bla |   |   |
 |       |      |     |   |   |
 |       |      |     |   |   |
 
