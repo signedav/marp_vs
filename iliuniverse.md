@@ -17,6 +17,16 @@ _paginate: false
 
 ---
 
+A table:
+
+| der   | die  | das |   |   |
+|-------|------|-----|---|---|
+| brot  | test | bla |   |   |
+|       |      |     |   |   |
+|       |      |     |   |   |
+
+---
+
 ### A video
 
 ![](./assets/autocomplete.webm)
