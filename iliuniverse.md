@@ -34,6 +34,13 @@ A table:
 
 ---
 
+### Another video
+
+<video control="controls" width="800" src="./assets/autocomplete.webm">
+</video>
+
+---
+
 A note on this method, to use it with markdown you need to use code like this <section class="hbox">	<div class="container"> <div class="flex-col" data-markdown> * Column 1 Content </div> <div class="flex-col" data-markdown> * Column 2 Content </div> </div> </section> 
 
 ---
